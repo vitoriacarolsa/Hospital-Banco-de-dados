@@ -61,8 +61,8 @@ Crie um script que adicione uma coluna “em_atividade” para os médicos, indi
 Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
 </p><br>
 
-<h3> ✔ Parte 5- Visualização dos dados 
-<br> <p>
+<h3> ✔ Parte 5- Visualização dos dados </h3>
+<p>
 1- Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
 
 2- Todos os dados das internações que tiveram data de alta maior que a data prevista para a alta.
